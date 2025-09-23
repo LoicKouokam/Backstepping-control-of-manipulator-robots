@@ -1,1 +1,3 @@
 # Backstepping-control-of-manipulator-robots
+Variable-stiffness robotic manipulators are highly nonlinear systems that exhibit a non-strict feedback structure due to the strong coupling between the position actuators and the stiffness actuators. Controlling this type of robotic system is challenging, and only a few contributions have been made in this area...
+This repository presents a backstepping control implementation for a 3D manipulator robot using MATLAB/Simulink.
